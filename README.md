@@ -12,7 +12,8 @@
 🎶o→o→o→o→o→o→o↗connor↘↗🎶    
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/oooooooConnor/oooooooConnor/assets/github-contribution-grid-snake.svg" /></div>
+![](https://raw.githubusercontent.com/oooooooConnor/oooooooConnor/main/assets/github-contribution-grid-snake.svg)
+<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/oooooooConnor/oooooooConnor/assets/github-contribution-grid-snake.svg" /></div> -->
 
 <!---
 oooooooConnor/oooooooConnor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
