@@ -11,7 +11,7 @@
 🎶假↓面↑骑↑士↓～～～🎵    
 🎶o→o→o→o→o→o→o↗connor↘↗🎶    
 
-
+![](https://raw.githubusercontent.com/oooooooConnor/oooooooConnor/main/assets/github-contribution-grid-snake.svg)
 
 <!---
 oooooooConnor/oooooooConnor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
