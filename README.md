@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=oooooooconnor">
+
 程序员（震声）👨‍💻
 一旦接受了自己的软弱🎶那我就是 无敌的🎵    
 发生什么事了🔉发生什么事了🔉发生什么事了🔉    
@@ -9,7 +9,9 @@
 哼啊啊啊啊啊啊啊啊🎶    
 🎤🎶走→我→的↗路↑↑🎶    
 🎶假↓面↑骑↑士↓～～～🎵    
-🎶o→o→o→o→o→o→o↗connor↘↗🎶    
+🎶o→o→o→o→o→o→o↗connor↘↗🎶  
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=oooooooconnor">
 
 <!--- 贪吃蛇代码贡献图 --->
 ![Snake animation](https://github.com/oooooooConnor/oooooooConnor/blob/output/github-contribution-grid-snake.svg)
