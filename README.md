@@ -1,7 +1,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=oooooooconnor">
 程序员（震声）👨‍💻
-一旦接受了自己的软弱🎶那我就是 无敌的🎵    
+一旦接受了自己的Bug🎶那我就是 无敌的🎵    
 发生什么事了🔉发生什么事了🔉发生什么事了🔉    
 变身！！🎶    
 发生什么事了🔉发生什么事了🔉    
