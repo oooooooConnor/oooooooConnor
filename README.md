@@ -1,10 +1,10 @@
 
 # ooh--Wild oooooooConnor jumps out &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Gengar gif](https://github.com/oooooooConnor/oooooooConnor/blob/main/images/Gengar.gif)
 
-> ***If at first you don't succeed,call it version 1.0(unknown)*** <br /> ***如果一开始你没有成功，称之为1.0版（未知）***
+> ***If at first you don't succeed,call it version 1.0(unknown)*** <br> ***如果一开始你没有成功，称之为1.0版（未知）***
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=oooooooconnor"><br>
-<img align="reight">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooooooConnor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" style="display:block;" src="https://github-readme-stats.vercel.app/api?username=oooooooconnor"><br>
+<img align="reight" style="display:block;" >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooooooConnor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- 贪吃蛇代码贡献图 --->
 ![snake gif](https://github.com/oooooooConnor/oooooooConnor/blob/output/github-contribution-grid-snake.gif)
