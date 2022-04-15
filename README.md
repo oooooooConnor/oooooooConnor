@@ -1,5 +1,5 @@
 
-# ooh--Wild&nbsp;oooooooConnor&nbsp;jumps&nbsp;out&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Gengar gif](https://github.com/oooooooConnor/oooooooConnor/blob/main/images/Gengar.gif)
+# ooh--Wild&nbsp;oooooooConnor&nbsp;jumps&nbsp;out&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Gengar gif](https://github.com/oooooooConnor/oooooooConnor/blob/main/images/Gengar.gif)
 
 > ***If at first you don't succeed,call it version 1.0(unknown)*** <br> ***如果一开始你没有成功，称之为1.0版（未知）***
 
