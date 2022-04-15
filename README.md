@@ -3,8 +3,7 @@
 
 > ***If at first you don't succeed,call it version 1.0(unknown)*** <br /> ***如果一开始你没有成功，称之为1.0版（未知）***
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=oooooooconnor">
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=oooooooconnor"><br>
 <img align="reight">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooooooConnor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- 贪吃蛇代码贡献图 --->
