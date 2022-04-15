@@ -3,7 +3,14 @@
 
 > ***If at first you don't succeed,call it version 1.0(unknown)*** <br> ***如果一开始你没有成功，称之为1.0版（未知）***
 
-<img src="https://github-readme-stats.vercel.app/api?username=oooooooconnor" align="left"><img src="https://github.com/oooooooConnor/oooooooConnor/blob/main/images/2.gif" width="100px">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooooooconnor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oooooooConnor&count_private=true&" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooooooConnor&langs_count=8&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250" />
+</a>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=oooooooconnor" align="left"><img src="https://github.com/oooooooConnor/oooooooConnor/blob/main/images/2.gif" width="100px">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooooooconnor&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
   
 <!--- 贪吃蛇代码贡献图 --->
 ![snake gif](https://github.com/oooooooConnor/oooooooConnor/blob/output/github-contribution-grid-snake.gif)
