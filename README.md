@@ -3,8 +3,8 @@
 
 > ***If at first you don't succeed,call it version 1.0(unknown)*** <br> ***如果一开始你没有成功，称之为1.0版（未知）***
 
-<img align="left" style="display:block;margin:0px;" src="https://github-readme-stats.vercel.app/api?username=oooooooconnor"><br>
-<img align="reight" style="display:block;margin:0px;" >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooooooConnor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" style="display:block;" margin=“0px” src="https://github-readme-stats.vercel.app/api?username=oooooooconnor"><br>
+<img align="reight" style="display:block;" margin=“0px” >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooooooConnor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- 贪吃蛇代码贡献图 --->
 ![snake gif](https://github.com/oooooooConnor/oooooooConnor/blob/output/github-contribution-grid-snake.gif)
