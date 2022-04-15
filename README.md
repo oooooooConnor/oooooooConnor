@@ -5,7 +5,7 @@
 
 <img align="left" style="display:block;" src="https://github-readme-stats.vercel.app/api?username=oooooooconnor">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooooooConnor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="reight">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooooooConnor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- 贪吃蛇代码贡献图 --->
 ![snake gif](https://github.com/oooooooConnor/oooooooConnor/blob/output/github-contribution-grid-snake.gif)
