@@ -1,10 +1,10 @@
 
-# ooh--Wild oooooooConnor jumps out &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Gengar gif](https://github.com/oooooooConnor/oooooooConnor/blob/main/images/Gengar.gif)
+# ooh--Wild&nbsp;oooooooConnor&nbsp;jumps&nbsp;out&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Gengar gif](https://github.com/oooooooConnor/oooooooConnor/blob/main/images/Gengar.gif)
 
 > ***If at first you don't succeed,call it version 1.0(unknown)*** <br> ***如果一开始你没有成功，称之为1.0版（未知）***
 
-<img align="left" style="display:block;" margin=“0px” src="https://github-readme-stats.vercel.app/api?username=oooooooconnor"><br>
-<img align="right" style="display:block;" margin=“0px” >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooooooConnor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=oooooooconnor" align="left"><img src="https://github.com/oooooooConnor/oooooooConnor/blob/main/images/2.gif" width="100px">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooooooConnor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 <!--- 贪吃蛇代码贡献图 --->
 ![snake gif](https://github.com/oooooooConnor/oooooooConnor/blob/output/github-contribution-grid-snake.gif)
@@ -29,4 +29,8 @@ You can click the Preview link to take a look at your changes.
 🎤🎶走→我→的↗路↑↑🎶    
 🎶假↓面↑骑↑士↓～～～🎵    
 🎶o→o→o→o→o→o→o↗connor↘↗🎶 
+-->
+
+<!--
+<img align="right" style="display:block;" margin=“0px” >
 -->
