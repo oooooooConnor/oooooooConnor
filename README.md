@@ -3,6 +3,8 @@
 
 > ***If at first you don't succeed,call it version 1.0(unknown)*** <br> ***如果一开始你没有成功，称之为1.0版（未知）***
 
+<!--<hr/>-->
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oooooooConnor&count_private=true&" />
 </a>
