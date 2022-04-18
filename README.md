@@ -39,6 +39,3 @@ You can click the Preview link to take a look at your changes.
 🎶o→o→o→o→o→o→o↗connor↘↗🎶 
 -->
 
-<!--
-<img align="right" style="display:block;" margin=“0px” >
--->
