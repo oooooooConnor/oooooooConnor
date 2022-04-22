@@ -18,7 +18,6 @@
 <!-- ![snake_gif](https://github.com/oooooooConnor/oooooooConnor/blob/output/github-contribution-grid-snake.gif) -->
 ![Snake animation](https://github.com/oooooooConnor/oooooooConnor/blob/output/github-contribution-grid-snake.svg)
 
-<!--- ![](https://raw.githubusercontent.com/oooooooConnor/oooooooConnor/main/assets/github-contribution-grid-snake.svg) --->
 <!--- <div align="center"><img src="https://cdn.jsdelivr.net/gh/oooooooConnor/oooooooConnor/assets/github-contribution-grid-snake.svg" /></div> --->
 
 
