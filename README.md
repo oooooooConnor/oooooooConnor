@@ -1,4 +1,3 @@
-
 # ooh--Wild&nbsp;oooooooConnor&nbsp;jumps![Gengar_Gif00](https://github.com/oooooooConnor/oooooooConnor/blob/main/images/Gengar_Gif00.gif)[Drak Theme](https://github.com/settings/appearance)
 
 > ***If at first you don't succeed,call it version 1.0(unknown)*** <br> ***如果一开始你没有成功，称之为1.0版（未知）***
