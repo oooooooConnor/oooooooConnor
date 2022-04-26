@@ -10,8 +10,6 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooooooConnor&theme=radical&langs_count=8&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250" />
 </a>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=oooooooconnor" align="left"><img src="https://github.com/oooooooConnor/oooooooConnor/blob/main/images/2.gif" width="100px">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooooooconnor&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
   
 <!--- 贪吃蛇代码贡献图 --->
 <!-- ![snake_gif](https://github.com/oooooooConnor/oooooooConnor/blob/output/github-contribution-grid-snake.gif) -->
